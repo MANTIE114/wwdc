@@ -41,6 +41,9 @@
     "For every love." : {
 
     },
+    "Hello Lyrics Effect 🐣" : {
+
+    },
     "Hello, world!" : {
       "comment" : "A greeting message displayed in the preview.",
       "extractionState" : "stale",
@@ -63,7 +66,7 @@
     "Noti" : {
 
     },
-    "PieChartView" : {
+    "Play" : {
 
     },
     "Result for %@" : {
@@ -89,6 +92,9 @@
     "Toolbar" : {
 
     },
+    "Transation" : {
+
+    },
     "像 TV 页面一样的效果" : {
 
     },
@@ -106,9 +112,6 @@
 
     },
     "数量" : {
-
-    },
-    "未定义的视图" : {
 
     },
     "查看 右侧边栏 详情" : {
