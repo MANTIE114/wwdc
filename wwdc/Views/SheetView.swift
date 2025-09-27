@@ -31,7 +31,7 @@ struct SheetView: View {
                     .frame(height: offset > 0 ? 300 - (offset>80 ? 80 : offset) : 300)
                     .scaleEffect(offset < 0 ? 1 + offset / -200 : 1)
 //                    .padding(.top, -100)
-
+  
                 ZStack(alignment: .top) {
                     ScrollView {
                         VStack {
